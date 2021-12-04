@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 group-title="80", Eighth Wonder - I'm Not Scared
+https://www.youtube.com/watch?v=J-PYqUHfTMA&list=PLjDW5nNhcLHqPlKR_jlq14_Y1nrMZgwRY&index=1
 #EXTINF:-1 group-title="2000", Robbie Williams - Feel
 https://www.youtube.com/watch?v=PPaGujo9p9o
 #EXTINF:-1 group-title="Portuguesa", D.A.M.A - Às Vezes
@@ -11,6 +12,8 @@ https://www.youtube.com/watch?v=nz50NcwUWPI
 https://www.youtube.com/watch?v=JMyScbK9Lgw
 #EXTINF:-1 group-title="Portuguesa", D.A.M.A - NÃO FAÇO QUESTÃO
 https://www.youtube.com/watch?v=ZN56QbykIZg
+#EXTINF:-1 group-title="Portuguesa", Da Vinci 99 - Momentos de Paixão
+https://www.youtube.com/watch?v=wbC-H1cz8VU&list=PLjDW5nNhcLHqPlKR_jlq14_Y1nrMZgwRY&index=185
 #EXTINF:-1 group-title="2000", Dido - White Flag
 https://www.youtube.com/watch?v=j-fWDrZSiZs
 #EXTINF:-1 group-title="80", Desireless - Voyage Voyage
@@ -251,6 +254,11 @@ https://www.youtube.com/watch?v=aztY_fpjJeQ
 https://www.youtube.com/watch?v=1V0xQkk9kbc
 #EXTINF:-1 group-title="2000", Sarah Connor - Skin On Skin
 https://www.youtube.com/watch?v=C7UfZE7D2Q4
+
+
+#EXTINF:-1, ★★★★★ÚLTIMOS PT★★★★★
+http://0.0.0.0:1234
+
 
 
 
