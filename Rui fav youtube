@@ -5,7 +5,7 @@ http://viperteam.ddns.net:25461/6666/6666/74571
 http://viperteam.ddns.net:25461/6666/6666/74585
 #EXTINF:-1 group-title="futebol", Sport tv 1 api
 http://api.magiaiptv.com/live/800196/128093/m3_DFwhzUuzfistv1_1080p
-EXTINF:-1 group-title="futebol", Sport tv 2 api
+#EXTINF:-1 group-title="futebol", Sport tv 2 api
 http://api.magiaiptv.com/live/800196/128093/m3_FZukotDQWYstv2_1080p
 #EXTINF:-1 group-title="futebol", Sport tv 1 fhd
 http://dtv.wingstv.info:2082/yazid_206888/sGd1o1S1/9079
