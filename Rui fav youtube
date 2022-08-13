@@ -19,10 +19,24 @@ http://dtv.wingstv.info:2082/yazid_206888/sGd1o1S1/119483
 http://dtv.wingstv.info:2082/yazid_206888/sGd1o1S1/156952
 #EXTINF:-1 group-title="futebol", Sport tv 2 4k
 http://dtv.wingstv.info:2082/yazid_206888/sGd1o1S1/156953
+#EXTINF:-1 group-title="futebol", Espn
+http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/250
+#EXTINF:-1 group-title="futebol", Espn HD
+http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/259
 #EXTINF:-1 group-title="futebol", Espn 2
 http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/251
 #EXTINF:-1 group-title="futebol", Espn 2 HD
 http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/261
+#EXTINF:-1 group-title="futebol", Espn 3
+http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/30277
+#EXTINF:-1 group-title="futebol", Espn 4
+http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/255
+#EXTINF:-1 group-title="futebol", Espn extra
+http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/260
+#EXTINF:-1 group-title="futebol", Fox sports 2
+http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/252
+#EXTINF:-1 group-title="futebol", Fox sports 2
+http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/263
 #EXTINF:-1 group-title="futebol", Gol Tv
 http://dtv.wingstv.info:2082/yazid_206888/sGd1o1S1/73412
 #EXTINF:-1 group-title="futebol", Gol Tv 2
