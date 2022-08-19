@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 group-title="canais música", MTV 80
+http://myott.top/stream/P4H2M76YRH/87.m3u8
+#EXTINF:-1 group-title="canais música", MTV 90
+http://myott.top/stream/P4H2M76YRH/88.m3u8
 #EXTINF:-1 group-title="canais música", vevo 80
 https://vevo80s-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_615392f5743a2822d9551f45_vevo80s-live/live.m3u8
 #EXTINF:-1 group-title="canais música", vevo 90
