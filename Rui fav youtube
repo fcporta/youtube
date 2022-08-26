@@ -1,81 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="canais música", MTV 80
-http://myott.top/stream/P4H2M76YRH/87.m3u8
-#EXTINF:-1 group-title="canais música", MTV 90
-http://myott.top/stream/P4H2M76YRH/88.m3u8
-#EXTINF:-1 group-title="canais música", vevo 80
-https://vevo80s-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_615392f5743a2822d9551f45_vevo80s-live/live.m3u8
-#EXTINF:-1 group-title="canais música", vevo 90
-https://vevo90s-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61539424ca0c716cfb0c5192_vevo90s-live/live.m3u8
-#EXTINF:-1 group-title="canais música", vevo 90
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="canais música", vevo 80
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="canais música", vevo 80
-https://bit.ly/vevo80s?wmsAuthSign=InspirationLinks
-#EXTINF:-1 group-title="canais música", Trace Brazuca
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
-#EXTINF:-1 group-title="canais música", TraceBrazuca low
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-tracebrazuca-tcl/playlist.m3u8
-#EXTINF:-1 group-title="futebol", Sport tv 1 vip
-http://viperteam.ddns.net:25461/6666/6666/74571
-#EXTINF:-1 group-title="futebol", Sport tv 2 vip
-http://viperteam.ddns.net:25461/6666/6666/74585
-#EXTINF:-1 group-title="futebol", Sport tv 1 api
-http://api.magiaiptv.com/live/800196/128093/m3_DFwhzUuzfistv1_1080p
-#EXTINF:-1 group-title="futebol", Sport tv 2 api
-http://api.magiaiptv.com/live/800196/128093/m3_FZukotDQWYstv2_1080p
-#EXTINF:-1 group-title="futebol", Sport tv 1 fhd
-http://dtv.wingstv.info:2082/yazid_206888/sGd1o1S1/9079
-#EXTINF:-1 group-title="futebol", Sport tv 2 fhd
-http://dtv.wingstv.info:2082/yazid_206888/sGd1o1S1/9077
-#EXTINF:-1 group-title="futebol", Sport tv 1
-http://dtv.wingstv.info:2082/yazid_206888/sGd1o1S1/119482
-#EXTINF:-1 group-title="futebol", Sport tv 2
-http://dtv.wingstv.info:2082/yazid_206888/sGd1o1S1/119483
-#EXTINF:-1 group-title="futebol", Sport tv 1 4k
-http://dtv.wingstv.info:2082/yazid_206888/sGd1o1S1/156952
-#EXTINF:-1 group-title="futebol", Sport tv 2 4k
-http://dtv.wingstv.info:2082/yazid_206888/sGd1o1S1/156953
-#EXTINF:-1 group-title="futebol", Espn
-http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/250
-#EXTINF:-1 group-title="futebol", Espn HD
-http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/259
-#EXTINF:-1 group-title="futebol", Espn 2
-http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/251
-#EXTINF:-1 group-title="futebol", Espn 2 HD
-http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/261
-#EXTINF:-1 group-title="futebol", Espn 3
-http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/30277
-#EXTINF:-1 group-title="futebol", Espn 4
-http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/255
-#EXTINF:-1 group-title="futebol", Espn extra
-http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/260
-#EXTINF:-1 group-title="futebol", Fox sports 2
-http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/252
-#EXTINF:-1 group-title="futebol", Fox sports 2
-http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/263
-#EXTINF:-1 group-title="futebol", Gol Tv
-http://dtv.wingstv.info:2082/yazid_206888/sGd1o1S1/73412
-#EXTINF:-1 group-title="futebol", Gol Tv 2
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/73412
-#EXTINF:-1 group-title="futebol", Gol Tv HD
-http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=7&f=.m3u8
-#EXTINF:-1 group-title="futebol", Gol Tv
-http://dnsplay.xyz:80/nfjttyzt/dHgctQxt/304391
-#EXTINF:-1 group-title="futebol", Sportdigital
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2d920251-818e-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=CH&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
 #EXTINF:-1 group-title="80", Eighth Wonder - I'm Not Scared
 https://www.youtube.com/watch?v=J-PYqUHfTMA&list=PLjDW5nNhcLHqPlKR_jlq14_Y1nrMZgwRY&index=1
 #EXTINF:-1 group-title="2000", Robbie Williams - Feel
 https://www.youtube.com/watch?v=PPaGujo9p9o
-#EXTINF:-1 group-title="Portuguesa", D.A.M.A - Às Vezes
+#EXTINF:-1 group-title="Portuguesa", DAMA - Às Vezes
 https://www.youtube.com/watch?v=86fURTDpYe0
-#EXTINF:-1 group-title="Portuguesa", D.A.M.A - NÃO DÁ
+#EXTINF:-1 group-title="Portuguesa", DAMA - NÃO DÁ
 https://www.youtube.com/watch?v=nz50NcwUWPI
-#EXTINF:-1 group-title="Portuguesa", D.A.M.A - Secrets in Silence (ft. Mia Rose)
+#EXTINF:-1 group-title="Portuguesa", DAMA - Secrets in Silence ft. Mia Rose (ft. Mia Rose)
 https://www.youtube.com/watch?v=JMyScbK9Lgw
-#EXTINF:-1 group-title="Portuguesa", D.A.M.A - NÃO FAÇO QUESTÃO
+#EXTINF:-1 group-title="Portuguesa", DAMA - NÃO FAÇO QUESTÃO
 https://www.youtube.com/watch?v=ZN56QbykIZg
 #EXTINF:-1 group-title="Portuguesa", Da Vinci 99 - Momentos de Paixão
 https://www.youtube.com/watch?v=wbC-H1cz8VU&list=PLjDW5nNhcLHqPlKR_jlq14_Y1nrMZgwRY&index=185
@@ -87,7 +21,7 @@ https://www.youtube.com/watch?v=j-fWDrZSiZs
 https://www.youtube.com/watch?v=6PDmZnG8KsM
 #EXTINF:-1 group-title="80", Baltimora - Tarzan Boy
 http://www.youtube.com/watch?v=_r0n9Dv6XnY
-#EXTINF:-1 group-title="80", Belinda Carlisle -Heaven is a Place on Earth 
+#EXTINF:-1 group-title="80", Belinda Carlisle - Heaven is a Place on Earth
 http://www.youtube.com/watch?v=0HjxWaIL3Qc
 #EXTINF:-1 group-title="2000", Beyoncé - Si Yo Fuera Un Chico
 http://www.youtube.com/watch?v=7iMNLqqHPac
@@ -95,9 +29,9 @@ http://www.youtube.com/watch?v=7iMNLqqHPac
 http://www.youtube.com/watch?v=6Uxc9eFcZyM
 #EXTINF:-1 group-title="2000", Enigma - Return To Innocence
 http://www.youtube.com/watch?v=Rk_sAHh9s08&ob=av2e
-#EXTINF:-1 group-title="80", George Michael - Careless Whisper 
+#EXTINF:-1 group-title="80", George Michael - Careless Whisper
 https://www.youtube.com/watch?v=QwMK8JVWkBE
-#EXTINF:-1 group-title="80", Eurythmics - Miracle of Love 
+#EXTINF:-1 group-title="80", Eurythmics - Miracle of Love
 https://www.youtube.com/watch?v=yOGD1WkJJok
 #EXTINF:-1 group-title="80", Bryan Ferry - Slave To Love
 https://www.youtube.com/watch?v=nyBhMhSbSII
@@ -107,7 +41,7 @@ https://www.youtube.com/watch?v=d2smz_1L2_0
 https://www.youtube.com/watch?v=EVBsypHzF3U
 #EXTINF:-1 group-title="BRASIL", FÁBIO JR & BONNIE TYLER - Sem Limites Pra Sonhar
 https://www.youtube.com/watch?v=yB0yOt4cuJs
-#EXTINF:-1 group-title="BRASIL", Kaoma - Chorando se foi - Lambada 
+#EXTINF:-1 group-title="BRASIL", Kaoma - Chorando se foi - Lambada
 https://www.youtube.com/watch?v=csaUvkYOkLY
 #EXTINF:-1 group-title="BRASIL", Carrapicho - Tic, Tic, Tac
 https://www.youtube.com/watch?v=E7ysRY_aE0E
@@ -117,7 +51,7 @@ https://www.youtube.com/watch?v=ujDvN2k-CCg
 https://www.youtube.com/watch?v=VaMFuI3ZdqU
 #EXTINF:-1 group-title="BRASIL", KLB - Porque tem que ser assim
 https://www.youtube.com/watch?v=6f-Q5Xt2_Zs
-#EXTINF:-1 group-title="BRASIL", KLB - Porque tem que ser assim
+#EXTINF:-1 group-title="BRASIL", KLB - Clip Ela não está aqui
 https://www.youtube.com/watch?v=Oz2w_PLM_q4&index=4&list=RD6f-Q5Xt2_Zs
 #EXTINF:-1 group-title="BRASIL", Marcus Viana - Somente Por Amor
 https://www.youtube.com/watch?v=Yvq4Wyuc58I
@@ -137,7 +71,7 @@ https://www.youtube.com/watch?v=U-9oC6puahQ&list=RDU-9oC6puahQ
 https://www.youtube.com/watch?v=9hSa5TNCA5k
 #EXTINF:-1 group-title="2000", Avril Lavigne - When You're Gone
 https://www.youtube.com/watch?v=0G3_kG5FFfQ
-#EXTINF:-1 group-title="2000", Delta Goodrem - Born to try
+#EXTINF:-1 group-title="2000", Delta Goodrem - Born to Try
 https://www.youtube.com/watch?v=qTBOJ71ypRw
 #EXTINF:-1 group-title="80", Madonna - Like A Virgin
 https://www.youtube.com/watch?v=s__rX_WL100
@@ -145,21 +79,21 @@ https://www.youtube.com/watch?v=s__rX_WL100
 https://www.youtube.com/watch?v=52iW3lcpK5M
 #EXTINF:-1 group-title="80", Madonna - Papa Don't Preach
 http://www.youtube.com/watch?v=G333Is7VPOg
-#EXTINF:-1 group-title="80", Michael McDonald - Patti LaBelle
+#EXTINF:-1 group-title="80", Michael McDonald - On My Own
 http://www.youtube.com/watch?v=KsH63qJlIMM&ob=av2e
 #EXTINF:-1 group-title="80", Michael McDonald - Sweet Freedom
-http://www.youtube.com/watch?v=U-xetxYwyak
-#EXTINF:-1 group-title="80", Modern Talking - You're My Heart, You're My Soul
+https://www.youtube.com/watch?v=O8-JPyVRkiE
+#EXTINF:-1 group-title="80", Modern Talking - You're My Heart, You're My Sou
 https://www.youtube.com/watch?v=4kHl4FoK1Ys
 #EXTINF:-1 group-title="80", Modern Talking - Atlantis Is Calling
 https://www.youtube.com/watch?v=CB57CuT4smM
-#EXTINF:-1 group-title="80", Modern Talking - Brother Louie 
+#EXTINF:-1 group-title="80", Modern Talking - Brother Louie
 http://www.youtube.com/watch?v=Lp2qcCrdBLA&feature=related
 #EXTINF:-1 group-title="80", Modern Talking - Cheri Cheri Lady
 https://www.youtube.com/watch?v=eNvUS-6PTbs
-#EXTINF:-1 group-title="80", Samantha Fox - Touch me
+#EXTINF:-1 group-title="80", Samantha Fox - Touch Me
 https://www.youtube.com/watch?v=W1btg3mpEOc
-#EXTINF:-1 group-title="80", Sandra - Maria Magdalena
+#EXTINF:-1 group-title="80", Sandra - Maria Madalena
 https://www.youtube.com/watch?v=l1DIV8V_zwQ
 #EXTINF:-1 group-title="80", Whitney Houston - I Wanna Dance With Somebody
 https://www.youtube.com/watch?v=eH3giaIzONA
@@ -167,13 +101,15 @@ https://www.youtube.com/watch?v=eH3giaIzONA
 https://www.youtube.com/watch?v=4BQLE_RrTSU
 #EXTINF:-1 group-title="80", Simple Minds - Alive And Kicking
 https://www.youtube.com/watch?v=ljIQo1OHkTI&feature=related
+#EXTINF:-1 group-title="80", Simple Minds - Don't You (Forget About Me)
+https://www.youtube.com/watch?v=CdqoNKCCt7A
 #EXTINF:-1 group-title="2000", Spice Girls - Goodbye
 https://www.youtube.com/watch?v=eegDtyrSUZw&feature=related
 #EXTINF:-1 group-title="2000", Spice Girls - Say You'll Be There
 http://www.youtube.com/watch?v=9ro0FW9Qt-4&feature=related
 #EXTINF:-1 group-title="80", Taylor Dayne - Tell It To My Heart
 https://www.youtube.com/watch?v=lKVa4O2MuS0
-#EXTINF:-1 group-title="80", Terence Trent D'arby - Sign your name
+#EXTINF:-1 group-title="80", Terence Trent D'arby - Sign Your Name
 https://www.youtube.com/watch?v=dluHzQhLcME
 #EXTINF:-1 group-title="80", Wham! - I'm Your Man
 https://www.youtube.com/watch?v=6W0d9xMhZbo
@@ -183,7 +119,7 @@ https://www.youtube.com/watch?v=E8gmARGvPlI
 http://www.youtube.com/watch?v=pIgZ7gMze7A&feature=relmfu
 #EXTINF:-1 group-title="80", Rod Stewart feat. Jeff Beck - People Get Ready
 https://www.youtube.com/watch?v=yC_j_dzkaVE
-#EXTINF:-1 group-title="80", Jim Diamond - I should have known better
+#EXTINF:-1 group-title="80", Jim Diamond - I Should Have Known Better
 https://www.youtube.com/watch?v=qWEFNFsFrgE
 #EXTINF:-1 group-title="80", Gazebo - I Like Chopin
 https://www.youtube.com/watch?v=grGjD1rTNyg
@@ -191,7 +127,7 @@ https://www.youtube.com/watch?v=grGjD1rTNyg
 https://www.youtube.com/watch?v=u1ZoHfJZACA
 #EXTINF:-1 group-title="80", Kim Wilde - You Came
 https://www.youtube.com/watch?v=P6Agwu_5J14
-#EXTINF:-1 group-title="80", Eighth Wonder – I'm not scared
+#EXTINF:-1 group-title="80", Eighth Wonder – I'm not scared (ao vivo)
 https://www.youtube.com/watch?v=Xz7_mHRsBzY
 #EXTINF:-1 group-title="80", Europe - The Final Countdown
 https://www.youtube.com/watch?v=9jK-NcRmVcw
@@ -213,15 +149,15 @@ https://www.youtube.com/watch?v=yCC_b5WHLX0
 https://www.youtube.com/watch?v=LlVI7ZNiFlI
 #EXTINF:-1 group-title="80", Roxette - Un Dia Sin Ti
 https://www.youtube.com/watch?v=MB7ZmnG3q3w
-#EXTINF:-1 group-title="80", Cutting Crew - (I Just) Died In Your Arms
+#EXTINF:-1 group-title="80", Cutting Crew - (I just) Died in Your Arms
 https://www.youtube.com/watch?v=6dOwHzCHfgA&feature=related
-#EXTINF:-1 group-title="80", Climie Fisher - Love Changes Everything
+#EXTINF:-1 group-title="80", Climie Fisher - Love Changes
 https://www.youtube.com/watch?v=b8dy8tfUCEg
 #EXTINF:-1 group-title="80", Level 42 - Lessons In Love
 https://www.youtube.com/watch?v=9x1RcVrGjGM
-#EXTINF:-1 group-title="2000", Brian Adams - Everything i do i do it for you
+#EXTINF:-1 group-title="2000", Brian Adams - (Everything I Do) I Do It For You
 https://www.youtube.com/watch?v=Y0pdQU87dc8
-#EXTINF:-1 group-title="2000", Brian Adams - Please forgive me
+#EXTINF:-1 group-title="2000", Brian Adams - Please Forgive Me
 https://www.youtube.com/watch?v=7x8wPt8xarE
 #EXTINF:-1 group-title="80", Bryan Adams - Run To You
 https://www.youtube.com/watch?v=nCBASt507WA
@@ -231,42 +167,42 @@ https://www.youtube.com/watch?v=s6TtwR2Dbjg
 https://www.youtube.com/watch?v=lDK9QqIzhwk
 #EXTINF:-1 group-title="80", Queen - I Want To Break Free
 https://www.youtube.com/watch?v=NkAm0u3lqH8
-#EXTINF:-1 group-title="80", Tina Turner - The Best
+#EXTINF:-1 group-title="80", Tina Turner - The Best 
 https://www.youtube.com/watch?v=GC5E8ie2pdM
 #EXTINF:-1 group-title="80", Time Bandits - Endless Road
 https://www.youtube.com/watch?v=KIv6FYJkeVw
 #EXTINF:-1 group-title="80", Nik Kershaw - Wouldn't It Be Good
 https://www.youtube.com/watch?v=cTLTG4FTNBQ
-#EXTINF:-1 group-title="80", Bee Gees - You win again
+#EXTINF:-1 group-title="80", Bee Gees - You Win Again
 https://www.youtube.com/watch?v=KZY9oYSSjFI
 #EXTINF:-1 group-title="80", Gloria Estefan - Don't Wanna Lose You
 https://www.youtube.com/watch?v=J1x1WGtePSE
-#EXTINF:-1 group-title="Meus Pombos", Meus pombos em Agosto de 2019
+#EXTINF:-1 group-title="Meus Pombos", Meus Pombos em Agosto de 2019
 https://www.youtube.com/watch?v=ocxCcyVWtlE
 #EXTINF:-1 group-title="Meus Pombos", Meus pombos Janeiro 2021
 https://www.youtube.com/watch?v=pVxqg1ib6T0
-#EXTINF:-1 group-title="80", Century - Lover Why 
+#EXTINF:-1 group-title="80", Century - Lover Why
 https://www.youtube.com/watch?v=7BN5dZ_8FhE
-#EXTINF:-1 group-title="80", Foreigner - I Want To Know What Love Is 
+#EXTINF:-1 group-title="80", Foreigner - 'I Want To Know What Love Is'
 https://www.youtube.com/watch?v=raNGeq3_DtM
-#EXTINF:-1 group-title="80", KENNY ROGERS & SHEENA EASTON - WE'VE GOT TONIGHT
-https://www.youtube.com/watch?v=G_q_yTYqp5c
-#EXTINF:-1 group-title="80", The Communards - Don't Leave Me This Way
+#EXTINF:-1 group-title="80", KENNY ROGERS & SHEENA EASTON - We've Got Tonight
+https://www.youtube.com/watch?v=C3BuITOx3Cs
+#EXTINF:-1 group-title="80", The Communards - Don't Leave Me This Way 
 https://www.youtube.com/watch?v=1RHBAd5YUR8
 #EXTINF:-1 group-title="80", Cock Robin - The Promise You Made
 https://www.youtube.com/watch?v=3pk3A_QSINI
-#EXTINF:-1 group-title="80", Erasure - sometimes
+#EXTINF:-1 group-title="80", Erasure - Sometimes
 https://www.youtube.com/watch?v=S1a8QABKNo0
-#EXTINF:-1 group-title="80", John Farnham - you're the voice
+#EXTINF:-1 group-title="80", John Farnham - You're the Voice 
 https://www.youtube.com/watch?v=tbkOZTSvrHs
 #EXTINF:-1 group-title="80", Richard Marx - Right Here Waiting
 https://www.youtube.com/watch?v=S_E2EHVxNAE
-#EXTINF:-1 group-title="80", Starship - nothing's gonna stop us now
+#EXTINF:-1 group-title="80", Starship - Nothing's Gonna Stop Us Now
 https://www.youtube.com/watch?v=3wxyN3z9PL4
-#EXTINF:-1 group-title="80", Stevie Wonder - I Just Called to Say I Love You
-https://www.youtube.com/watch?v=NiRj5m63oig
-#EXTINF:-1 group-title="80", Scorpions - Still Loving You
-https://www.youtube.com/watch?v=7pOr3dBFAeY
+#EXTINF:-1 group-title="80", Stevie Wonder - i just called to say i love you
+https://www.youtube.com/watch?v=VtPLdL5GWDg
+#EXTINF:-1 group-title="80", Scorpions - Still Love You
+https://www.youtube.com/watch?v=7pOr3dBFAEY
 #EXTINF:-1 group-title="80", Scorpions - Wind Of Change
 https://www.youtube.com/watch?v=NZ9N5MZ2zOA
 #EXTINF:-1 group-title="80", Whitesnake - Is This Love
@@ -285,11 +221,11 @@ https://www.youtube.com/watch?v=z4q05resEvc
 https://www.youtube.com/watch?v=Eh83bxcvvts
 #EXTINF:-1 group-title="2000", Thalia - Cerca De Ti
 https://www.youtube.com/watch?v=DCwTW3NYi18
-#EXTINF:-1 group-title="2000", Evanescence - Immortal
+#EXTINF:-1 group-title="2000", Evanescence - Imortal
 https://www.youtube.com/watch?v=5anLPw0Efmo
 #EXTINF:-1 group-title="80", Heart - Alone
 https://www.youtube.com/watch?v=1Cw1ng75KP0
-#EXTINF:-1 group-title="2000", Michael bolton - All For Love
+#EXTINF:-1 group-title="2000", Michael Bolton - All For Love
 https://www.youtube.com/watch?v=M7pvn2b6GJY
 #EXTINF:-1 group-title="2000", Backstreet Boys - I Want It That Way
 https://www.youtube.com/watch?v=4fndeDfaWCg
@@ -305,15 +241,15 @@ https://www.youtube.com/watch?v=Zi0RpNSELas
 https://www.youtube.com/watch?v=NrLkTZrPZA4
 #EXTINF:-1 group-title="BRASIL", Qual dos backstreet boys é gay?
 https://www.youtube.com/watch?v=nyiquEk7BpE
-#EXTINF:-1 group-title="Recente", Lady Gaga - I’ll Never Love Again
+#EXTINF:-1 group-title="Recente", Lady Gaga - I'll Never Love Again (tradução)
 https://www.youtube.com/watch?v=xSrIRPvEFMM
-#EXTINF:-1 group-title="Recente", Lady Gaga - I’ll Never Love Again
+#EXTINF:-1 group-title="Recente", Lady Gaga - I'll Never Love Again
 https://www.youtube.com/watch?v=52nfjRzIaj8
-#EXTINF:-1 group-title="Recente", Lady Gaga, Bradley Cooper - Shallow 
+#EXTINF:-1 group-title="Recente", Lady Gaga, Bradley Cooper - Shallow
 https://www.youtube.com/watch?v=JPJjwHAIny4
-#EXTINF:-1 group-title="80", Tears For Fears - Shout 
+#EXTINF:-1 group-title="80", Tears For Fears - Shout ao vivo
 https://www.youtube.com/watch?v=1FN15FDbyAQ
-#EXTINF:-1 group-title="80", Tears For Fears - Shout 
+#EXTINF:-1 group-title="80", Tears For Fears - Shout
 https://www.youtube.com/watch?v=Ye7FKc1JQe4
 #EXTINF:-1 group-title="2000", Mariah Carey - I Want To Know What Love Is
 https://www.youtube.com/watch?v=gCadlN8fexk
@@ -325,33 +261,32 @@ https://www.youtube.com/watch?v=aztY_fpjJeQ
 https://www.youtube.com/watch?v=1V0xQkk9kbc
 #EXTINF:-1 group-title="2000", Sarah Connor - Skin On Skin
 https://www.youtube.com/watch?v=C7UfZE7D2Q4
-#EXTINF:-1 group-title="Laura Pausini", Víveme - Laura Pausini - Letra
+#EXTINF:-1 group-title="Laura Pausini", Laura Pausini - Víveme Letra
 https://www.youtube.com/watch?v=oA_z4dbKrHs&list=PLjDW5nNhcLHqPlKR_jlq14_Y1nrMZgwRY&index=155
-#EXTINF:-1 group-title="Laura Pausini", Laura Pausini - Vivimi (Official Video)
+#EXTINF:-1 group-title="Laura Pausini", Laura Pausini - Vivimi (Vídeo Oficial)
 https://www.youtube.com/watch?v=8fRnvjjhjJs&list=PLjDW5nNhcLHqPlKR_jlq14_Y1nrMZgwRY&index=177
-#EXTINF:-1 group-title="Laura Pausini", Laura Pausini - Volvere Junto A Ti (Official Video)
+#EXTINF:-1 group-title="Laura Pausini", Laura Pausini - Volvere Junto A Ti (Vídeo Oficial)
 https://www.youtube.com/watch?v=y9D2sW5lY88&list=PLjDW5nNhcLHqPlKR_jlq14_Y1nrMZgwRY&index=139
-#EXTINF:-1 group-title="Laura Pausini", Laura Pausini - Entre Tu Y Mil Mares (Official Video)
+#EXTINF:-1 group-title="Laura Pausini", Laura Pausini - Entre Tu Y Mil Mares (Vídeo Oficial)
 https://www.youtube.com/watch?v=w3JoAPJu7ho&list=PLjDW5nNhcLHqPlKR_jlq14_Y1nrMZgwRY&index=140
-#EXTINF:-1 group-title="Laura Pausini", Laura Pausini - La Solitudine (Official Video)
+#EXTINF:-1 group-title="Laura Pausini", Laura Pausini - La Solitudine (Vídeo Oficial)
 https://www.youtube.com/watch?v=FpOEN93LX-E&list=PLjDW5nNhcLHqPlKR_jlq14_Y1nrMZgwRY&index=142
-#EXTINF:-1 group-title="Laura Pausini", Laura Pausini - Strani Amori (Official Video)
+#EXTINF:-1 group-title="Laura Pausini", Laura Pausini - Strani Amori (Vídeo Oficial)
 https://www.youtube.com/watch?v=s5LAMxM4OV0&list=PLjDW5nNhcLHqPlKR_jlq14_Y1nrMZgwRY&index=144
-#EXTINF:-1 group-title="Laura Pausini", Laura Pausini - Non C'è (Official Video)
+#EXTINF:-1 group-title="Laura Pausini", Laura Pausini - Non C'è (Vídeo Oficial)
 https://www.youtube.com/watch?v=ZHVdScgUm7U&list=PLjDW5nNhcLHqPlKR_jlq14_Y1nrMZgwRY&index=145
-#EXTINF:-1 group-title="Laura Pausini", Laura Pausini - Víveme (Official Video)
+#EXTINF:-1 group-title="Laura Pausini", Laura Pausini - Víveme (Vídeo Oficial)
 https://www.youtube.com/watch?v=jKlYf1oArQg&list=PLjDW5nNhcLHqPlKR_jlq14_Y1nrMZgwRY&index=141
-#EXTINF:-1 group-title="Laura Pausini", Laura Pausini - Tra Te E Il Mare (Official Video)
+#EXTINF:-1 group-title="Laura Pausini", Laura Pausini - Tra Te E Il Mare (Vídeo Oficial)
 https://www.youtube.com/watch?v=gl17x1L_8Kc&list=PLjDW5nNhcLHqPlKR_jlq14_Y1nrMZgwRY&index=146
-#EXTINF:-1 group-title="Laura Pausini", Laura Pausini - Inesquecivel (Official Video)
+#EXTINF:-1 group-title="Laura Pausini", Laura Pausini - Inesquecivel (Vídeo Oficial)
 https://www.youtube.com/watch?v=rKgBvNITpmE&list=PLjDW5nNhcLHqPlKR_jlq14_Y1nrMZgwRY&index=147
-#EXTINF:-1 group-title="Laura Pausini", Laura Pausini - E Ritorno Da Te (Official Video)
+#EXTINF:-1 group-title="Laura Pausini", Laura Pausini - E Ritorno Da Te (Vídeo Oficial)
 https://www.youtube.com/watch?v=H686vAjvVDU&list=PLjDW5nNhcLHqPlKR_jlq14_Y1nrMZgwRY&index=148
 #EXTINF:-1 group-title="Laura Pausini", LAURA PAUSINI (Se Fue) TVE 1994
 https://www.youtube.com/watch?v=sRcKkMBNhi0&list=PLjDW5nNhcLHqPlKR_jlq14_Y1nrMZgwRY&index=153
-#EXTINF:-1 group-title="Laura Pausini", Laura Pausini - Quiero Decirte Que Te Amo (Official Video)
+#EXTINF:-1 group-title="Laura Pausini", Laura Pausini - Quiero Decirte Que Te Amo (Vídeo Oficial)
 https://www.youtube.com/watch?v=AmqhjOMT1Gc
-
 
 
 
