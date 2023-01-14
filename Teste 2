@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 group-title="TV",24 KITCHEN
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/2025
+#EXTINF:-1 group-title="TV",24 KITCHEN
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/24986.ts
+#EXTINF:-1 group-title="TV",TRACE URBAN
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25083.ts
+#EXTINF:-1 group-title="TV",TRACE URBAN
+https://lightning-traceurban-samsungau.amagi.tv/playlist360p.m3u8
+#EXTINF:-1 group-title="TV",RTP AFRICA
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1424
+#EXTINF:-1 group-title="TV",RTP AFRICA
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25068.ts
+#EXTINF:-1 group-title="TV" tvg-id="rtpaf.tv.vodafone.pt",RTP AFRICA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",RTP ACORES
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/2055
+#EXTINF:-1 group-title="TV",RTP ACORES
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9550
+#EXTINF:-1 group-title="TV",RTP ACORES
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25067.ts
+#EXTINF:-1 group-title="TV" tvg-id="rtpacorhd.tv.vodafone.pt" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-acores.png",RTP ACORES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",RTP MADEIRA
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/278558
+#EXTINF:-1 group-title="TV",RTP MADEIRA
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9548
+#EXTINF:-1 group-title="TV",RTP MADEIRA
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25069.ts
+#EXTINF:-1 group-title="TV" tvg-id="rtpmad.tv.vodafone.pt",RTP MADEIRA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",RTP MEMORIA
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1425
+#EXTINF:-1 group-title="TV",RTP MEMORIA 
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51901
+#EXTINF:-1 group-title="TV",RTP MEMORIA
+http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9549
+#EXTINF:-1 group-title="TV",RTP MEMORIA
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25070.ts
+#EXTINF:-1 group-title="TV" tvg-id="rtpmem.tv.vodafone.pt" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp-memoria.png",RTP MEMORIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",FASHION TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",FASHION TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",CACAVISION 
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/13956
+#EXTINF:-1 group-title="TV",CACAVISION
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25002.ts
+#EXTINF:-1 group-title="TV",CACAVISION
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25003.ts
+#EXTINF:-1 group-title="TV",CACA E PESCA
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25001.ts
+#EXTINF:-1 group-title="TV",KURIAKOS TV
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/9697
+#EXTINF:-1 group-title="TV",KURIAKOS TV 
+https://w1.manasat.com:443/ktv/smil:ktv.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",KURIAKOS TV
+https://w1.manasat.com:443/ktv/smil:ktv.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV",KURIAKOS TV
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25045.ts
+#EXTINF:-1 group-title="TV",MTV PORTUGAL
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/1534
+#EXTINF:-1 group-title="TV",MTV PORTUGAL
+http://satline.xyz:8080/live/7381662208002780/5261662208002780/25049.ts
+#EXTINF:-1 group-title="TV",CASA E COZINHA
+http://kuchini.site:8080/Miglior/taJA1d0G6K0WWytw/6097
+#EXTINF:-1 group-title="TV",CASA E COZINHA
+http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51947
